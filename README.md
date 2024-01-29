@@ -1,1 +1,1 @@
-# terraform-learning
+Created the public and private key locally in ubuntu environment and launched the aws instance using the key, then pushed the shell script with file provisioner, used remote-exec to execute the script.
